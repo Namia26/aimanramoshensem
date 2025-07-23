@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My SaaS</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
+
 <body class="bg-gray-900 text-white font-sans">
 
     <header class="p-6 flex justify-between items-center border-b border-gray-700">
@@ -27,4 +29,5 @@
     </footer>
 
 </body>
+
 </html>
